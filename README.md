@@ -1,0 +1,1 @@
+simple bootstrap template within wordpress
